@@ -43,7 +43,7 @@ public class Main {
 //            for (int i = 0; i < chuoi.length(); i++) {
 //
 //                if (chuoi.charAt(i) == kyTu) {
-//                    System.out.println("Vị Trí :" + i);
+//                    System.out.println("Vị Trí " + kyTu + " trong chuỗi :" + i);
 //
 //                }
             }
