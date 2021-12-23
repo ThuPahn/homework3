@@ -40,12 +40,13 @@ public class Main {
             if (chuoi.charAt(i) == kyTu) {
                 count++;
             }
-//            for (int i = 0; i < chuoi.length(); i++) {
-//
-//                if (chuoi.charAt(i) == kyTu) {
-//                    System.out.println("Vị Trí " + kyTu + " trong chuỗi :" + i);
-//
-//                }
+        }
+           for (int i = 0; i < chuoi.length(); i++) {
+
+               if (chuoi.charAt(i) == kyTu) {
+                   System.out.println("Vị Trí " + kyTu + " trong chuỗi :" + i);
+
+               }
             }
 
             System.out.println("Số lần xuất hiện của ký tự " + kyTu +
